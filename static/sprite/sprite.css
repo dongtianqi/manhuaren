@@ -1,0 +1,83 @@
+/*
+Icon classes can be used entirely standalone. They are named after their original file names.
+
+Example usage in HTML:
+
+`display: block` sprite:
+<div class="icon-home"></div>
+
+To change `display` (e.g. `display: inline-block;`), we suggest using a common CSS class:
+
+// CSS
+.icon {
+  display: inline-block;
+}
+
+// HTML
+<i class="icon icon-home"></i>
+*/
+.icon {
+  display: inline-block;
+}
+.icon-arrow_right {
+background-size: 631%;
+    background-image: url(sprite.png);
+    background-position: 15px -291px;
+    width: 12px;
+    height: 22px;
+}
+.icon-index_title_1 {
+background-size: 327%;
+    background-image: url(sprite.png);
+    background-position: 0px -50.5px;
+    width: 30px;
+    height: 18px;
+}
+.icon-index_title_2 {
+  background-image: url(sprite.png);
+  background-position: -80px -34px;
+  width: 30px;
+  height: 30px;
+}
+.icon-index_title_3 {
+  background-image: url(sprite.png);
+  background-position: -80px 0px;
+  width: 36px;
+  height: 34px;
+}
+.icon-index_title_4 {
+  background-image: url(sprite.png);
+  background-position: -116px 0px;
+  width: 25px;
+  height: 30px;
+}
+.icon-new_ad_3 {
+  background-image: url(sprite.png);
+  background-position: -116px -30px;
+  width: 18px;
+  height: 18px;
+}
+.icon-top_logo_1 {
+  background-image: url(sprite.png);
+  background-position: 0px 0px;
+  width: 40px;
+  height: 36px;
+}
+.icon-top_logo_2 {
+  background-image: url(sprite.png);
+  background-position: -40px 0px;
+  width: 40px;
+  height: 36px;
+}
+.icon-top_logo_3 {
+  background-image: url(sprite.png);
+  background-position: 0px -36px;
+  width: 40px;
+  height: 36px;
+}
+.icon-top_logo_4 {
+  background-image: url(sprite.png);
+  background-position: -40px -36px;
+  width: 40px;
+  height: 36px;
+}

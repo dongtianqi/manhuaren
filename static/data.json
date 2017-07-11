@@ -1,0 +1,461 @@
+{
+    "home": {
+        "original": {
+        "icon":"icon-index_title_1",
+            "title": "原创精品",
+            "imgList": [
+                {
+                    "type": "少年热血 武侠格斗",
+                    "author":"邱福龙      瑛麒动漫",
+                    "score":"7.4",
+                    "content":"山海之间无奇不有，更有各种珍奇异兽存活其间。智者伯益发现食用异兽之肉，饮其鲜血，便能获得异兽之力。而这些身负奇能者，被称为异士！伯益走遍天下，笔录所见的异兽，并写成《山海...",
+                    "imgBig":"http://mhfm1.tel.cdndm5.com/34/33991/20170504210918_320x246.jpg",
+                    "img": "http://mhfm7.tel.cdndm5.com/34/33991/20170504210918_130x174.jpg",
+                    "name": "山海逆战",
+                    "progress": "第31回"
+                },
+                {
+                    "type": "少年热血",
+                    "author":"邱福龙      瑛麒动漫",
+                    "score":"9.7",
+                    "content":"【《bloody girl》官方微博：牛佬_Bloody_Girl；官方QQ群：432595046；微信：yingqidm 】在每一个晚上，在五光十色的霓虹光管下，在灯红...",
+                    "imgBig":"http://mhfm2.tel.cdndm5.com/22/21077/20161227100123_320x246.jpg",           
+                    "img": "http://mhfm9.tel.cdndm5.com/22/21077/20161227100123_130x174.jpg",
+                    "name": "bloody girl",
+                    "progress": "第81回"
+                },
+                {
+                                        "type": "少年热血",
+                    "author":"邱福龙      瑛麒动漫",
+                    "score":"9.7",
+                    "content":"【《bloody girl》官方微博：牛佬_Bloody_Girl；官方QQ群：432595046；微信：yingqidm 】在每一个晚上，在五光十色的霓虹光管下，在灯红...",
+                    "imgBig":"http://mhfm2.tel.cdndm5.com/22/21077/20161227100123_320x246.jpg",  
+                    "img": "http://mhfm6.tel.cdndm5.com/34/33469/20170406200318_130x174.jpg",
+                    "name": "山海逆战",
+                    "progress": "第31回"
+                },
+                {
+                                       "type": "少年热血",
+                    "author":"邱福龙      瑛麒动漫",
+                    "score":"9.7",
+                    "content":"【《bloody girl》官方微博：牛佬_Bloody_Girl；官方QQ群：432595046；微信：yingqidm 】在每一个晚上，在五光十色的霓虹光管下，在灯红...",
+                    "imgBig":"http://mhfm2.tel.cdndm5.com/22/21077/20161227100123_320x246.jpg",  
+                    "img": "http://mhfm6.tel.cdndm5.com/34/33745/20161110115018_130x174.jpg",
+                    "name": "山海逆战",
+                    "progress": "第31回"
+                },
+                {
+                                        "type": "少年热血",
+                    "author":"邱福龙      瑛麒动漫",
+                    "score":"9.7",
+                    "content":"【《bloody girl》官方微博：牛佬_Bloody_Girl；官方QQ群：432595046；微信：yingqidm 】在每一个晚上，在五光十色的霓虹光管下，在灯红...",
+                    "imgBig":"http://mhfm2.tel.cdndm5.com/22/21077/20161227100123_320x246.jpg",  
+                    "img": "http://mhfm3.tel.cdndm5.com/23/22692/20161118113738_130x174.jpg",
+                    "name": "山海逆战",
+                    "progress": "第31回"
+                },
+                {
+                                        "type": "少年热血",
+                    "author":"邱福龙      瑛麒动漫",
+                    "score":"9.7",
+                    "content":"【《bloody girl》官方微博：牛佬_Bloody_Girl；官方QQ群：432595046；微信：yingqidm 】在每一个晚上，在五光十色的霓虹光管下，在灯红...",
+                    "imgBig":"http://mhfm2.tel.cdndm5.com/22/21077/20161227100123_320x246.jpg",  
+                    "img": "http://mhfm3.tel.cdndm5.com/26/25344/20160707090249_130x174.jpg",
+                    "name": "山海逆战",
+                    "progress": "第31回"
+                },
+                                {
+                                        "type": "少年热血",
+                    "author":"邱福龙      瑛麒动漫",
+                    "score":"9.7",
+                    "content":"【《bloody girl》官方微博：牛佬_Bloody_Girl；官方QQ群：432595046；微信：yingqidm 】在每一个晚上，在五光十色的霓虹光管下，在灯红...",
+                    "imgBig":"http://mhfm2.tel.cdndm5.com/22/21077/20161227100123_320x246.jpg",  
+                    "img": "http://mhfm3.tel.cdndm5.com/26/25344/20160707090249_130x174.jpg",
+                    "name": "山海逆战",
+                    "progress": "第31回"
+                },
+                                {
+                                        "type": "少年热血",
+                    "author":"邱福龙      瑛麒动漫",
+                    "score":"9.7",
+                    "content":"【《bloody girl》官方微博：牛佬_Bloody_Girl；官方QQ群：432595046；微信：yingqidm 】在每一个晚上，在五光十色的霓虹光管下，在灯红...",
+                    "imgBig":"http://mhfm2.tel.cdndm5.com/22/21077/20161227100123_320x246.jpg",  
+                    "img": "http://mhfm3.tel.cdndm5.com/26/25344/20160707090249_130x174.jpg",
+                    "name": "山海逆战",
+                    "progress": "第31回"
+                },
+                                {
+                                        "type": "少年热血",
+                    "author":"邱福龙      瑛麒动漫",
+                    "score":"9.7",
+                    "content":"【《bloody girl》官方微博：牛佬_Bloody_Girl；官方QQ群：432595046；微信：yingqidm 】在每一个晚上，在五光十色的霓虹光管下，在灯红...",
+                    "imgBig":"http://mhfm2.tel.cdndm5.com/22/21077/20161227100123_320x246.jpg",  
+                    "img": "http://mhfm3.tel.cdndm5.com/26/25344/20160707090249_130x174.jpg",
+                    "name": "山海逆战",
+                    "progress": "第31回"
+                },
+                                {
+                                        "type": "少年热血",
+                    "author":"邱福龙      瑛麒动漫",
+                    "score":"9.7",
+                    "content":"【《bloody girl》官方微博：牛佬_Bloody_Girl；官方QQ群：432595046；微信：yingqidm 】在每一个晚上，在五光十色的霓虹光管下，在灯红...",
+                    "imgBig":"http://mhfm2.tel.cdndm5.com/22/21077/20161227100123_320x246.jpg",  
+                    "img": "http://mhfm3.tel.cdndm5.com/26/25344/20160707090249_130x174.jpg",
+                    "name": "山海逆战",
+                    "progress": "第31回"
+                },
+                                {
+                                        "type": "少年热血",
+                    "author":"邱福龙      瑛麒动漫",
+                    "score":"9.7",
+                    "content":"【《bloody girl》官方微博：牛佬_Bloody_Girl；官方QQ群：432595046；微信：yingqidm 】在每一个晚上，在五光十色的霓虹光管下，在灯红...",
+                    "imgBig":"http://mhfm2.tel.cdndm5.com/22/21077/20161227100123_320x246.jpg",  
+                    "img": "http://mhfm3.tel.cdndm5.com/26/25344/20160707090249_130x174.jpg",
+                    "name": "山海逆战",
+                    "progress": "第31回"
+                },                {
+                                        "type": "少年热血",
+                    "author":"邱福龙      瑛麒动漫",
+                    "score":"9.7",
+                    "content":"【《bloody girl》官方微博：牛佬_Bloody_Girl；官方QQ群：432595046；微信：yingqidm 】在每一个晚上，在五光十色的霓虹光管下，在灯红...",
+                    "imgBig":"http://mhfm2.tel.cdndm5.com/22/21077/20161227100123_320x246.jpg",  
+                    "img": "http://mhfm3.tel.cdndm5.com/26/25344/20160707090249_130x174.jpg",
+                    "name": "山海逆战",
+                    "progress": "第31回"
+                }
+            ]
+        },
+        "updates": {
+            "title": "最近更新",
+            "icon":"icon-index_title_1",
+            "imgList": [
+                {
+                                        "type": "少年热血",
+                    "author":"邱福龙      瑛麒动漫",
+                    "score":"9.7",
+                    "content":"【《bloody girl》官方微博：牛佬_Bloody_Girl；官方QQ群：432595046；微信：yingqidm 】在每一个晚上，在五光十色的霓虹光管下，在灯红...",
+                    "imgBig":"http://mhfm2.tel.cdndm5.com/22/21077/20161227100123_320x246.jpg",  
+                    "img": "http://mhfm7.tel.cdndm5.com/34/33991/20170504210918_130x174.jpg",
+                    "name": "山海逆战",
+                    "progress": "第31回"
+                },
+                {
+                                        "type": "少年热血",
+                    "author":"邱福龙      瑛麒动漫",
+                    "score":"9.7",
+                    "content":"【《bloody girl》官方微博：牛佬_Bloody_Girl；官方QQ群：432595046；微信：yingqidm 】在每一个晚上，在五光十色的霓虹光管下，在灯红...",
+                    "imgBig":"http://mhfm2.tel.cdndm5.com/22/21077/20161227100123_320x246.jpg",  
+                    "img": "http://mhfm9.tel.cdndm5.com/22/21077/20161227100123_130x174.jpg",
+                    "name": "山海逆战",
+                    "progress": "第31回"
+                },
+                {
+                                        "type": "少年热血",
+                    "author":"邱福龙      瑛麒动漫",
+                    "score":"9.7",
+                    "content":"【《bloody girl》官方微博：牛佬_Bloody_Girl；官方QQ群：432595046；微信：yingqidm 】在每一个晚上，在五光十色的霓虹光管下，在灯红...",
+                    "imgBig":"http://mhfm2.tel.cdndm5.com/22/21077/20161227100123_320x246.jpg",  
+                    "img": "http://mhfm6.tel.cdndm5.com/34/33469/20170406200318_130x174.jpg",
+                    "name": "山海逆战",
+                    "progress": "第31回"
+                },
+                {
+                                        "type": "少年热血",
+                    "author":"邱福龙      瑛麒动漫",
+                    "score":"9.7",
+                    "content":"【《bloody girl》官方微博：牛佬_Bloody_Girl；官方QQ群：432595046；微信：yingqidm 】在每一个晚上，在五光十色的霓虹光管下，在灯红...",
+                    "imgBig":"http://mhfm2.tel.cdndm5.com/22/21077/20161227100123_320x246.jpg",  
+                    "img": "http://mhfm6.tel.cdndm5.com/34/33745/20161110115018_130x174.jpg",
+                    "name": "山海逆战",
+                    "progress": "第31回"
+                },
+                {
+                                        "type": "少年热血",
+                    "author":"邱福龙      瑛麒动漫",
+                    "score":"9.7",
+                    "content":"【《bloody girl》官方微博：牛佬_Bloody_Girl；官方QQ群：432595046；微信：yingqidm 】在每一个晚上，在五光十色的霓虹光管下，在灯红...",
+                    "imgBig":"http://mhfm2.tel.cdndm5.com/22/21077/20161227100123_320x246.jpg",  
+                    "img": "http://mhfm3.tel.cdndm5.com/23/22692/20161118113738_130x174.jpg",
+                    "name": "山海逆战",
+                    "progress": "第31回"
+                },
+                {
+                                        "type": "少年热血",
+                    "author":"邱福龙      瑛麒动漫",
+                    "score":"9.7",
+                    "content":"【《bloody girl》官方微博：牛佬_Bloody_Girl；官方QQ群：432595046；微信：yingqidm 】在每一个晚上，在五光十色的霓虹光管下，在灯红...",
+                    "imgBig":"http://mhfm2.tel.cdndm5.com/22/21077/20161227100123_320x246.jpg",  
+                    "img": "http://mhfm3.tel.cdndm5.com/26/25344/20160707090249_130x174.jpg",
+                    "name": "山海逆战",
+                    "progress": "第31回"
+                }               
+                 ,{
+                                        "type": "少年热血",
+                    "author":"邱福龙      瑛麒动漫",
+                    "score":"9.7",
+                    "content":"【《bloody girl》官方微博：牛佬_Bloody_Girl；官方QQ群：432595046；微信：yingqidm 】在每一个晚上，在五光十色的霓虹光管下，在灯红...",
+                    "imgBig":"http://mhfm2.tel.cdndm5.com/22/21077/20161227100123_320x246.jpg",  
+                    "img": "http://mhfm3.tel.cdndm5.com/26/25344/20160707090249_130x174.jpg",
+                    "name": "山海逆战",
+                    "progress": "第31回"
+                },
+                                {
+                                        "type": "少年热血",
+                    "author":"邱福龙      瑛麒动漫",
+                    "score":"9.7",
+                    "content":"【《bloody girl》官方微博：牛佬_Bloody_Girl；官方QQ群：432595046；微信：yingqidm 】在每一个晚上，在五光十色的霓虹光管下，在灯红...",
+                    "imgBig":"http://mhfm2.tel.cdndm5.com/22/21077/20161227100123_320x246.jpg",  
+                    "img": "http://mhfm3.tel.cdndm5.com/26/25344/20160707090249_130x174.jpg",
+                    "name": "山海逆战",
+                    "progress": "第31回"
+                },
+                                {
+                                        "type": "少年热血",
+                    "author":"邱福龙      瑛麒动漫",
+                    "score":"9.7",
+                    "content":"【《bloody girl》官方微博：牛佬_Bloody_Girl；官方QQ群：432595046；微信：yingqidm 】在每一个晚上，在五光十色的霓虹光管下，在灯红...",
+                    "imgBig":"http://mhfm2.tel.cdndm5.com/22/21077/20161227100123_320x246.jpg",  
+                    "img": "http://mhfm3.tel.cdndm5.com/26/25344/20160707090249_130x174.jpg",
+                    "name": "山海逆战",
+                    "progress": "第31回"
+                },
+                                {
+                                        "type": "少年热血",
+                    "author":"邱福龙      瑛麒动漫",
+                    "score":"9.7",
+                    "content":"【《bloody girl》官方微博：牛佬_Bloody_Girl；官方QQ群：432595046；微信：yingqidm 】在每一个晚上，在五光十色的霓虹光管下，在灯红...",
+                    "imgBig":"http://mhfm2.tel.cdndm5.com/22/21077/20161227100123_320x246.jpg",  
+                    "img": "http://mhfm3.tel.cdndm5.com/26/25344/20160707090249_130x174.jpg",
+                    "name": "山海逆战",
+                    "progress": "第31回"
+                },
+                                {
+                                        "type": "少年热血",
+                    "author":"邱福龙      瑛麒动漫",
+                    "score":"9.7",
+                    "content":"【《bloody girl》官方微博：牛佬_Bloody_Girl；官方QQ群：432595046；微信：yingqidm 】在每一个晚上，在五光十色的霓虹光管下，在灯红...",
+                    "imgBig":"http://mhfm2.tel.cdndm5.com/22/21077/20161227100123_320x246.jpg",  
+                    "img": "http://mhfm3.tel.cdndm5.com/26/25344/20160707090249_130x174.jpg",
+                    "name": "山海逆战",
+                    "progress": "第31回"
+                }
+            ]
+        },
+        "girls": {
+            "title": "少女漫画",
+            "icon":"icon-index_title_1",
+            "imgList": [
+                {
+                                        "type": "少年热血",
+                    "author":"邱福龙      瑛麒动漫",
+                    "score":"9.7",
+                    "content":"【《bloody girl》官方微博：牛佬_Bloody_Girl；官方QQ群：432595046；微信：yingqidm 】在每一个晚上，在五光十色的霓虹光管下，在灯红...",
+                    "imgBig":"http://mhfm2.tel.cdndm5.com/22/21077/20161227100123_320x246.jpg",  
+                    "img": "http://mhfm7.tel.cdndm5.com/34/33991/20170504210918_130x174.jpg",
+                    "name": "山海逆战",
+                    "progress": "第31回"
+                },
+                {
+                                        "type": "少年热血",
+                    "author":"邱福龙      瑛麒动漫",
+                    "score":"9.7",
+                    "content":"【《bloody girl》官方微博：牛佬_Bloody_Girl；官方QQ群：432595046；微信：yingqidm 】在每一个晚上，在五光十色的霓虹光管下，在灯红...",
+                    "imgBig":"http://mhfm2.tel.cdndm5.com/22/21077/20161227100123_320x246.jpg",  
+                    "img": "http://mhfm9.tel.cdndm5.com/22/21077/20161227100123_130x174.jpg",
+                    "name": "山海逆战",
+                    "progress": "第31回"
+                },
+                {
+                                        "type": "少年热血",
+                    "author":"邱福龙      瑛麒动漫",
+                    "score":"9.7",
+                    "content":"【《bloody girl》官方微博：牛佬_Bloody_Girl；官方QQ群：432595046；微信：yingqidm 】在每一个晚上，在五光十色的霓虹光管下，在灯红...",
+                    "imgBig":"http://mhfm2.tel.cdndm5.com/22/21077/20161227100123_320x246.jpg",  
+                    "img": "http://mhfm6.tel.cdndm5.com/34/33469/20170406200318_130x174.jpg",
+                    "name": "山海逆战",
+                    "progress": "第31回"
+                },
+                {
+                                        "type": "少年热血",
+                    "author":"邱福龙      瑛麒动漫",
+                    "score":"9.7",
+                    "content":"【《bloody girl》官方微博：牛佬_Bloody_Girl；官方QQ群：432595046；微信：yingqidm 】在每一个晚上，在五光十色的霓虹光管下，在灯红...",
+                    "imgBig":"http://mhfm2.tel.cdndm5.com/22/21077/20161227100123_320x246.jpg",  
+                    "img": "http://mhfm6.tel.cdndm5.com/34/33745/20161110115018_130x174.jpg",
+                    "name": "山海逆战",
+                    "progress": "第31回"
+                },
+                {
+                                        "type": "少年热血",
+                    "author":"邱福龙      瑛麒动漫",
+                    "score":"9.7",
+                    "content":"【《bloody girl》官方微博：牛佬_Bloody_Girl；官方QQ群：432595046；微信：yingqidm 】在每一个晚上，在五光十色的霓虹光管下，在灯红...",
+                    "imgBig":"http://mhfm2.tel.cdndm5.com/22/21077/20161227100123_320x246.jpg",  
+                    "img": "http://mhfm3.tel.cdndm5.com/23/22692/20161118113738_130x174.jpg",
+                    "name": "山海逆战",
+                    "progress": "第31回"
+                },
+                {
+                                        "type": "少年热血",
+                    "author":"邱福龙      瑛麒动漫",
+                    "score":"9.7",
+                    "content":"【《bloody girl》官方微博：牛佬_Bloody_Girl；官方QQ群：432595046；微信：yingqidm 】在每一个晚上，在五光十色的霓虹光管下，在灯红...",
+                    "imgBig":"http://mhfm2.tel.cdndm5.com/22/21077/20161227100123_320x246.jpg",  
+                    "img": "http://mhfm3.tel.cdndm5.com/26/25344/20160707090249_130x174.jpg",
+                    "name": "山海逆战",
+                    "progress": "第31回"
+                },                {
+                                                            "type": "少年热血",
+                    "author":"邱福龙      瑛麒动漫",
+                    "score":"9.7",
+                    "content":"【《bloody girl》官方微博：牛佬_Bloody_Girl；官方QQ群：432595046；微信：yingqidm 】在每一个晚上，在五光十色的霓虹光管下，在灯红...",
+                    "imgBig":"http://mhfm2.tel.cdndm5.com/22/21077/20161227100123_320x246.jpg", 
+                    "img": "http://mhfm3.tel.cdndm5.com/26/25344/20160707090249_130x174.jpg",
+                    "name": "山海逆战",
+                    "progress": "第31回"
+                },
+                                {
+                                                            "type": "少年热血",
+                    "author":"邱福龙      瑛麒动漫",
+                    "score":"9.7",
+                    "content":"【《bloody girl》官方微博：牛佬_Bloody_Girl；官方QQ群：432595046；微信：yingqidm 】在每一个晚上，在五光十色的霓虹光管下，在灯红...",
+                    "imgBig":"http://mhfm2.tel.cdndm5.com/22/21077/20161227100123_320x246.jpg", 
+                    "img": "http://mhfm3.tel.cdndm5.com/26/25344/20160707090249_130x174.jpg",
+                    "name": "山海逆战",
+                    "progress": "第31回"
+                },
+                                {
+                                                            "type": "少年热血",
+                    "author":"邱福龙      瑛麒动漫",
+                    "score":"9.7",
+                    "content":"【《bloody girl》官方微博：牛佬_Bloody_Girl；官方QQ群：432595046；微信：yingqidm 】在每一个晚上，在五光十色的霓虹光管下，在灯红...",
+                    "imgBig":"http://mhfm2.tel.cdndm5.com/22/21077/20161227100123_320x246.jpg", 
+                    "img": "http://mhfm3.tel.cdndm5.com/26/25344/20160707090249_130x174.jpg",
+                    "name": "山海逆战",
+                    "progress": "第31回"
+                },                {
+                                                            "type": "少年热血",
+                    "author":"邱福龙      瑛麒动漫",
+                    "score":"9.7",
+                    "content":"【《bloody girl》官方微博：牛佬_Bloody_Girl；官方QQ群：432595046；微信：yingqidm 】在每一个晚上，在五光十色的霓虹光管下，在灯红...",
+                    "imgBig":"http://mhfm2.tel.cdndm5.com/22/21077/20161227100123_320x246.jpg", 
+                    "img": "http://mhfm3.tel.cdndm5.com/26/25344/20160707090249_130x174.jpg",
+                    "name": "山海逆战",
+                    "progress": "第31回"
+                } ,               {
+                                                            "type": "少年热血",
+                    "author":"邱福龙      瑛麒动漫",
+                    "score":"9.7",
+                    "content":"【《bloody girl》官方微博：牛佬_Bloody_Girl；官方QQ群：432595046；微信：yingqidm 】在每一个晚上，在五光十色的霓虹光管下，在灯红...",
+                    "imgBig":"http://mhfm2.tel.cdndm5.com/22/21077/20161227100123_320x246.jpg", 
+                    "img": "http://mhfm7.tel.cdndm5.com/34/33991/20170504210918_130x174.jpg",
+                    "name": "山海逆战",
+                    "progress": "第3144回"
+                }
+            ]
+        }
+
+    },
+    "top": [{
+            "num": "1",
+                    "type": "少年热血",
+                    "author":"尾田隆一郎",
+                    "imgBig":"http://mhfm1.tel.cdndm5.com/1/432/20160628091105_720x554_697.png", 
+            "name": "海贼王",
+            "content":"相传22年前，在一个童话般的世界里，曾经拥有一切的海贼王在走上断头台的时候对人们狂笑道：“想要我的财宝是吗，想要就给你们！去找吧，全世界的宝藏都在那里！”……自此开始，全...",
+            "score":"9.8",
+            "progress":"更新至第899回"
+        },
+        {
+            "num": "2",
+                                "type": "少年热血",
+                    "author":"尾田隆一郎",
+                    "imgBig":"http://mhfm1.tel.cdndm5.com/1/432/20160628091105_720x554_697.png", 
+            "img":"",
+            "title": "海贼王",
+            "content":"相传22年前，在一个童话般的世界里，曾经拥有一切的海贼王在走上断头台的时候对人们狂笑道：“想要我的财宝是吗，想要就给你们！去找吧，全世界的宝藏都在那里！”……自此开始，全...",
+            "score":"9.8",
+            "progress":"更新至第899回"
+        },{
+            "num": "3",
+                                "type": "少年热血",
+                    "author":"尾田隆一郎",
+                    "imgBig":"http://mhfm1.tel.cdndm5.com/1/432/20160628091105_720x554_697.png", 
+            "img":"",
+            "title": "海贼王",
+            "content":"相传22年前，在一个童话般的世界里，曾经拥有一切的海贼王在走上断头台的时候对人们狂笑道：“想要我的财宝是吗，想要就给你们！去找吧，全世界的宝藏都在那里！”……自此开始，全...",
+            "score":"9.8",
+            "progress":"更新至第899回"
+        },{
+            "num": "4",
+                                "type": "少年热血",
+                    "author":"尾田隆一郎",
+                    "imgBig":"http://mhfm1.tel.cdndm5.com/1/432/20160628091105_720x554_697.png", 
+            "img":"",
+            "title": "海贼王",
+            "content":"相传22年前，在一个童话般的世界里，曾经拥有一切的海贼王在走上断头台的时候对人们狂笑道：“想要我的财宝是吗，想要就给你们！去找吧，全世界的宝藏都在那里！”……自此开始，全...",
+            "score":"9.8",
+            "progress":"更新至第899回"
+        },{
+            "num": "5",
+            "img":"",
+            "title": "海贼王",
+                                "type": "少年热血",
+                    "author":"尾田隆一郎",
+                    "imgBig":"http://mhfm1.tel.cdndm5.com/1/432/20160628091105_720x554_697.png", 
+            "content":"相传22年前，在一个童话般的世界里，曾经拥有一切的海贼王在走上断头台的时候对人们狂笑道：“想要我的财宝是吗，想要就给你们！去找吧，全世界的宝藏都在那里！”……自此开始，全...",
+            "score":"9.8",
+            "progress":"更新至第899回"
+        },{
+            "num": "6",
+            "img":"",
+            "title": "海贼王",
+                                "type": "少年热血",
+                    "author":"尾田隆一郎",
+                    "imgBig":"http://mhfm1.tel.cdndm5.com/1/432/20160628091105_720x554_697.png", 
+            "content":"相传22年前，在一个童话般的世界里，曾经拥有一切的海贼王在走上断头台的时候对人们狂笑道：“想要我的财宝是吗，想要就给你们！去找吧，全世界的宝藏都在那里！”……自此开始，全...",
+            "score":"9.8",
+            "progress":"更新至第899回"
+        },{
+            "num": "7",
+            "img":"",
+                                "type": "少年热血",
+                    "author":"尾田隆一郎",
+                    "imgBig":"http://mhfm1.tel.cdndm5.com/1/432/20160628091105_720x554_697.png", 
+            "title": "海贼王",
+            "content":"相传22年前，在一个童话般的世界里，曾经拥有一切的海贼王在走上断头台的时候对人们狂笑道：“想要我的财宝是吗，想要就给你们！去找吧，全世界的宝藏都在那里！”……自此开始，全...",
+            "score":"9.8",
+            "progress":"更新至第899回"
+        },{
+            "num": "8",
+                                "type": "少年热血",
+                    "author":"尾田隆一郎",
+                    "imgBig":"http://mhfm1.tel.cdndm5.com/1/432/20160628091105_720x554_697.png", 
+            "img":"",
+            "title": "海贼王",
+            "content":"相传22年前，在一个童话般的世界里，曾经拥有一切的海贼王在走上断头台的时候对人们狂笑道：“想要我的财宝是吗，想要就给你们！去找吧，全世界的宝藏都在那里！”……自此开始，全...",
+            "score":"9.8",
+            "progress":"更新至第899回"
+        },
+        {
+            "num": "9",
+                                "type": "少年热血",
+                    "author":"尾田隆一郎",
+                    "imgBig":"http://mhfm1.tel.cdndm5.com/1/432/20160628091105_720x554_697.png", 
+            "img":"",
+            "title": "海贼王",
+            "content":"相传22年前，在一个童话般的世界里，曾经拥有一切的海贼王在走上断头台的时候对人们狂笑道：“想要我的财宝是吗，想要就给你们！去找吧，全世界的宝藏都在那里！”……自此开始，全...",
+            "score":"9.8",
+            "progress":"更新至第899回"
+        },{
+            "num": "10",
+                                "type": "少年热血",
+                    "author":"尾田隆一郎",
+                    "imgBig":"http://mhfm1.tel.cdndm5.com/1/432/20160628091105_720x554_697.png", 
+            "img":"",
+            "title": "海贼王",
+            "content":"相传22年前，在一个童话般的世界里，曾经拥有一切的海贼王在走上断头台的时候对人们狂笑道：“想要我的财宝是吗，想要就给你们！去找吧，全世界的宝藏都在那里！”……自此开始，全...",
+            "score":"9.8",
+            "progress":"更新至第899回"
+        }]
+}
