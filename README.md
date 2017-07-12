@@ -12,8 +12,8 @@ npm install
 ## 开启本地服务器localhost:8080
 npm run dev
 
-如果对您有帮助，您可以点右上角 "Star" 支持一下 谢谢！\<br>
-或者您可以 "follow" 一下，我会发更多关于前端的好玩的项目，\<br>
+如果对您有帮助，您可以点右上角 "Star" 支持一下 谢谢！<br>
+或者您可以 "follow" 一下，我会发更多关于前端的好玩的项目，<br>
 也会发一些公司的项目，比如微信小程序，或者reactjs的项目，初步设想回头把nodejs学了，用这个做后台
 
 ## 项目简介
@@ -79,11 +79,14 @@ template: '<App/>',
 components: {App}
 }).$mount('#app')
 ```
-## 项目（请用goole手机模式预览）:\<br>
+## 项目（请用goole手机模式预览）:
 
-![](https://github.com/dongtianqi/manhuaren/raw/master/gitImg/home.png) 
-![](https://github.com/dongtianqi/manhuaren/raw/master/gitImg/home1.png) 
-![](https://github.com/dongtianqi/manhuaren/raw/master/gitImg/details.png) 
-![](https://github.com/dongtianqi/manhuaren/raw/master/gitImg/more.png)  
+![](https://github.com/dongtianqi/manhuaren/raw/master/gitImg/home.png) <br>
+
+![](https://github.com/dongtianqi/manhuaren/raw/master/gitImg/home1.png) <br>
+
+![](https://github.com/dongtianqi/manhuaren/raw/master/gitImg/details.png) <br>
+
+![](https://github.com/dongtianqi/manhuaren/raw/master/gitImg/more.png)  <br>
 
 
