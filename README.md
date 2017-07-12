@@ -16,7 +16,7 @@ npm run dev
 或者您可以 "follow" 一下，我会发更多关于前端的好玩的项目，\<br>
 也会发一些公司的项目，比如微信小程序，或者reactjs的项目，初步设想回头把nodejs学了，用这个做后台
 
-#项目简介
+## 项目简介
 这个项目的界面数据是自己模拟的static/data.json，es6语法 
 
 路由配置：
@@ -79,8 +79,11 @@ template: '<App/>',
 components: {App}
 }).$mount('#app')
 ```
-项目（请用goole手机模式预览）:
+## 项目（请用goole手机模式预览）:\<br>
 
-
+![](https://github.com/dongtianqi/manhuaren/raw/master/gitImg/home.png) 
+![](https://github.com/dongtianqi/manhuaren/raw/master/gitImg/home1.png) 
+![](https://github.com/dongtianqi/manhuaren/raw/master/gitImg/details.png) 
+![](https://github.com/dongtianqi/manhuaren/raw/master/gitImg/more.png)  
 
 
