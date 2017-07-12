@@ -20,10 +20,8 @@ state: {
 //同步方法
 mutations: {
  	getData(state, res) {
-    console.log('进入mutation');
     state.getHomeData = {...state.getHomeData, home: res.data.home}
     state.getTopData = {...state.getTopData, top: res.data.top}
-    console.log('进入mutations修改state成功');
   }
    },
    //异步获取数据，commit给mutations，mutations改变state

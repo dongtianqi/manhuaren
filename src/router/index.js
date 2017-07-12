@@ -7,11 +7,9 @@ import hua from '@/components/details/hua'
 import fanwai from '@/components/details/fanwai'
 import pinglun from '@/components/details/pinglun'
 
-
 //VueResource使用做http请求的
 //Vue.use(VueResource) 
 Vue.use(Router)
-
 
 const routes = [
 {name:'home', path: '/home', component:home},
@@ -20,8 +18,6 @@ const routes = [
 redirect:'/hua',
       children: [
         {
-          // 当 /user/:id/profile 匹配成功，
-          // UserProfile 会被渲染在 User 的 <router-view> 中
           path: '/hua',
           component: hua
         },
