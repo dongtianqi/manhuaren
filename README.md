@@ -6,21 +6,21 @@
 
 项目运行（nodejs 6.0+）
 
-# 安装依赖
+## 安装依赖
 npm install
 
-# 开启本地服务器localhost:8080
+## 开启本地服务器localhost:8080
 npm run dev
 
-如果对您有帮助，您可以点右上角 "Star" 支持一下 谢谢！
-或者您可以 "follow" 一下，我会发更多关于前端的好玩的项目，
+如果对您有帮助，您可以点右上角 "Star" 支持一下 谢谢！\<br>
+或者您可以 "follow" 一下，我会发更多关于前端的好玩的项目，\<br>
 也会发一些公司的项目，比如微信小程序，或者reactjs的项目，初步设想回头把nodejs学了，用这个做后台
 
-项目简介
+#项目简介
 这个项目的界面数据是自己模拟的static/data.json，es6语法 
 
 路由配置：
-
+```javascript
 const routes = [
 {name:'home', path: '/home', component:home},
 {name:'original', path: '/original', component: original},
@@ -41,10 +41,10 @@ redirect:'/hua',
         }
       ]}
 ]
-
+```
 
 vuex 配置action,获取数据：
-
+```javascript
    actions: {
    //异步获取数据，commit给mutations，mutations改变state
 	getData(context){
@@ -60,24 +60,27 @@ context.commit('getData', res)
 	}       
     }
 })
-
+```
 mutations：
-
+```javascript
 mutations: {
  	getData(state, res) {
     state.getHomeData = {...state.getHomeData, home: res.data.home}
     state.getTopData = {...state.getTopData, top: res.data.top}
   }
    }
-   
+  ``` 
   创建vue实例，并挂载：
+  ```javascript
   new Vue({
 router,
 store,
 template: '<App/>',
 components: {App}
 }).$mount('#app')
+```
+项目（请用goole手机模式预览）:
 
-项目（请用goole手机模式预览）
+
 
 
