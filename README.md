@@ -89,4 +89,6 @@ components: {App}
 
 ![](https://github.com/dongtianqi/manhuaren/raw/master/gitImg/more.png)  <br>
 
+# 未完，持续更新中。。。
+
 
